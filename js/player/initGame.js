@@ -144,7 +144,7 @@ let bast = 0
 // 是否生成新的小方框
 let isCreate = true
 // 移动速率
-const rate = 0.1
+const rate = 0.3
 
 export default class initGame {
 	constructor() {
